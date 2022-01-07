@@ -1,0 +1,207 @@
+body{ 
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+.first-font{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', serif;
+    font-size:60px;
+}
+.orange-colour{
+    color: rgb(247, 178, 49);
+
+}
+
+.mission-impossible{
+      
+    display: flex;
+  
+}
+.full-width{
+    width: 320px;
+    padding: 10px;
+    border-radius: 40px solid red;
+    margin: 0;
+
+}
+.dream{
+    color: rgb(172, 147, 9);
+}
+.explore-button{
+    font-weight: 700;
+    text-decoration: rgb(176, 189, 119);
+    padding:10px 40px  ;
+    background-image: linear-gradient(rgb(106, 179, 248), rgb(236, 214, 11));
+    border-radius: 5px;
+}
+.blue-person img{
+    height: 400px;
+    width:410px ;
+    margin-top: 25px;
+    padding-left: 10px;
+}
+.half-width{
+    max-width: 50%;
+    padding-left: 60px;
+}
+.vission-section{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-size:50px;
+    color: rgb(1, 1, 29);
+    text-align: center;
+}
+.mission-2022{
+    display: flex;
+    justify-content: center;
+
+    
+}
+.full-width-one{
+    border-radius: 60px;
+    border: 1px solid rgb(212, 212, 101);
+    height: 442px;
+    width: 368px;
+    margin-right: 20px;
+
+ } 
+ 
+ .P-SIZE{
+    height: 40px;
+    width:41px ;
+ }
+
+
+.black-colour{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-size:25px;
+}
+.icon-player{
+     height:150px ;
+     width:140px ;
+}
+.mission-possible{
+    display: flex;
+
+}
+.half-section img{
+    height: 380px;
+    width:350px ;
+    margin-top: 25px;
+    padding-left: 80px;
+  
+    background-repeat:no-repeat;
+    
+}
+
+/* background: url(mountain.jpg);
+ */
+
+
+.half-section{
+    
+    background-image: url(/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+}
+.font-develop{
+    font-size:40px;
+    color: rgb(41, 39, 39);
+
+}
+.mission-success{
+           display: flex;
+
+}
+/* .full-width-one{
+  
+}  
+.full-width-two{
+ 
+}  
+.full-width-three{
+  
+}   */
+.font-section{
+    padding-left: 90px;
+    max-width: 50%
+    
+}
+
+
+
+.full-section img{
+    height: 380px;
+    width:350px ;
+    padding-right:50px ;
+    background-image: url(/shape-1.png);
+    background-size: 108px 99px;
+    background-position: right bottom;
+    background-repeat:no-repeat;
+          
+}
+.second-section{
+    padding-left:70px;
+    max-width: 50%;
+    
+}
+.black-colour{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', serif;
+    font-size:30px;
+    
+}
+.second-font{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', serif;
+    font-size:50px;
+    text-align: center;
+
+
+}
+.footer-1{
+    text-align: center;
+    padding:20px;
+    background-color: rgb(15, 15, 15);
+    color: white;
+  
+}
+.pink-colour{
+    color: crimson;
+}
+.omicron-1{
+   
+    height: 302px;
+    width: 446px;
+
+}
+.omicron{
+    display:flex;
+
+}
+.mask-1{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', serif;
+    font-size:30px;   
+
+}
+.hygiene-1{
+    color: rgb(15, 209, 90);
+}
+
+.omicron-2{
+    max-width: 50%;
+    padding-left:100px;
+}
+.omicron-3{
+    height: 321px;
+    width: 487px;
+
+}
