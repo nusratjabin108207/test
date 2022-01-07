@@ -9,6 +9,17 @@ body{
     font-family: 'Playfair Display', serif;
     font-size:60px;
 }
+.vl {
+    margin-top: 70px;
+    border-left: 4px solid rgb(224, 63, 98);
+    height: 140px;
+    
+
+}
+.vl-1{
+    display: flex;
+}
+
 .orange-colour{
     color: rgb(247, 178, 49);
 
